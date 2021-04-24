@@ -1,0 +1,12 @@
+{
+  "name": "solid",
+  "displayName": "solid",
+  "expo": {
+    "name": "solid",
+    "slug": "solid",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
